@@ -34,13 +34,13 @@ This repository contains the **mobile application source code** for our senior p
 
 ### Main Application Flow
 <div align="center">
-  <img src="assets/main-screen.png" alt="Home Screen" width="300" style="margin: 10px"/>
-  <img src="assets/sos-sendsos.png" alt="Feature Screen" width="300" style="margin: 10px"/>
+  <img src="assets/main-screen.png" alt="Home Screen" width="150" style="margin: 10px"/>
+  <img src="assets/sos-sendsos.png" alt="Feature Screen" width="150" style="margin: 10px"/>
 </div>
 
 <div align="center">
-  <img src="assets/sos-livestream.png" alt="Profile Screen" width="300" style="margin: 10px"/>
-  <img src="assets/donation-charitydetail.png" alt="Settings Screen" width="300" style="margin: 10px"/>
+  <img src="assets/sos-livestream.png" alt="Profile Screen" width="150" style="margin: 10px"/>
+  <img src="assets/donation-charitydetail.png" alt="Settings Screen" width="150" style="margin: 10px"/>
 </div>
 
 ## 🛠️ Tech Stack
