@@ -3,7 +3,7 @@
 > A React Native mobile application developed as our university senior project
 
 <div align="center">
-  <img src="assets/banner.png" alt="Project Banner" width="100%"/>
+  <img src="assets/banner.png" alt="Project Banner" width="80%"/>
 </div>
 
 <div align="center">
@@ -20,34 +20,46 @@ This repository contains the **mobile application source code** for our senior p
 
 ## 👥 Team
 
-- **[Van Thi Bach Duong]** - Mobile Developer
+- **[Van Thi Bach Duong]** - Mobile/Web Developer
 - **[Nguyen Huu Tung]** - Backend Developer
 
 ## 🚀 Features
 
-- Cross-platform mobile application built with React Native
-- Modern UI/UX design
-- [Add specific features of your app here]
-- [Add more features as needed]
+### 📱 Mobile Application
+- **Cross-platform** - Built with React Native for iOS and Android
+- **SOS System** - Quick emergency alert functionality with live streaming capabilities
+- **Real-time** - Live streaming, live location and instant messaging features
+- **Modern UI/UX** - Intuitive and responsive user interface
+- **Push Notifications** - Real-time alerts and updates
 
-## 📱 Screenshots
+### 🌐 Web Application
+- **Responsive** - Accessible on desktop and mobile browsers
+- **SOS System** - Comprehensive emergency history and analytics
 
-### Main Application Flow
+## 📱 Showcase
+
+### Mobile App
 <div align="center">
   <img src="assets/main-screen.png" alt="Home Screen" width="150" style="margin: 10px"/>
   <img src="assets/sos-sendsos.png" alt="Feature Screen" width="150" style="margin: 10px"/>
-</div>
-
-<div align="center">
   <img src="assets/sos-livestream.png" alt="Profile Screen" width="150" style="margin: 10px"/>
   <img src="assets/donation-charitydetail.png" alt="Settings Screen" width="150" style="margin: 10px"/>
+</div>
+
+### Web App
+<div align="center">
+  <img src="assets/web-home.png" alt="Home Screen" width="320" style="margin: 10px"/>
+  <img src="assets/web-soshistory.png" alt="Feature Screen" width="320" style="margin: 10px"/>
+  <img src="assets/web-donation.png" alt="Feature Screen" width="320" style="margin: 10px"/>
 </div>
 
 ## 🛠️ Tech Stack
 
 ### Mobile Application
 - **React Native** - Cross-platform mobile development
-- **TypeScript** - Programming language
+
+### Web Application
+- **ReactJs** - Web development
 
 ### Backend (Private)
 - Backend services and APIs are maintained in a private repository
@@ -69,9 +81,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **[Van Thi Bach Duong]** - [https://www.facebook.com/bach.duong.788778]
 - **[Tung Nguyen]** - []
 
-## 🙏 Acknowledgments
+## 💝 Acknowledgments
 
-- Our university professors and mentors
+We would like to express our sincere gratitude to **Our University Professors** and **Mentors** for their invaluable guidance, technical expertise, and continuous support throughout this project
 
 ---
 
